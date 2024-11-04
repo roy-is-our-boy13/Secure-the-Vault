@@ -1,0 +1,21 @@
+body
+{
+    background-color: crimson; 
+}
+.style
+{
+    font-size: 14px;
+    color: white;
+    background-color: black;
+}
+
+.spacing
+{
+    padding: 20px; 
+    margin: 30px;  
+}
+h1
+{
+    color: white;
+    background-color: black;
+}
